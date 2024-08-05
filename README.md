@@ -3,8 +3,8 @@
 
 I developed Netflix-GPT Built In React Js, leveraging OpenAI for interactive movie suggestions. Users can log in via Firebase, access features such as movie details, and have created a huge redux-store for allover state management.
 
-# Use a VPN As the TMDB movie api doesn't work in india but working on some of the ISP instead of jio
-Live Demo : [Live Demo](https://netflix-with-ai-search-le8bcjwkd-sumukh-srivastavas-projects.vercel.app/ "Live Demo")
+
+Live Demo : [Live Demo](https://netflix-with-ai-search-le8bcjwkd-sumukh-srivastavas-projects.vercel.app/ "Live Demo") / Use a VPN As the TMDB movie api doesn't work in india but working on some of the ISP instead of jio
 
 ## Screen Shot
 
