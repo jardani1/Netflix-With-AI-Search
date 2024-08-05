@@ -7,17 +7,14 @@ Live Demo : [Live Demo](https://netflix-with-ai-search-le8bcjwkd-sumukh-srivasta
 
 ## Screen Shot
 
-- Landing Page
-
-  ![Landing Page](https://okneeraj.github.io/netflix-gpt/screenshot/01-Landing.png)
 
 - Signin Page
 
-  ![Signin Page](https://okneeraj.github.io/netflix-gpt/screenshot/02-Signin.png)
+  ![Signin Page](https://github.com/jardani1/Netflix-With-AI-Search/blob/main/src/Screenshot%202024-08-05%20155034.png)
 
 - Signup Page
 
-  ![Signup Page](https://okneeraj.github.io/netflix-gpt/screenshot/03-Signup.png)
+  ![Signup Page](https://github.com/jardani1/Netflix-With-AI-Search/blob/main/src/Screenshot%202024-08-05%20160122.png)
 
 - Browse Page
 
