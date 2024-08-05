@@ -18,26 +18,11 @@ Live Demo : [Live Demo](https://netflix-with-ai-search-le8bcjwkd-sumukh-srivasta
 
 - Browse Page
 
-  ![Browse Page](https://okneeraj.github.io/netflix-gpt/screenshot/04-Browse.png)
+  ![Browse Page](https://github.com/jardani1/Netflix-With-AI-Search/blob/main/src/Screenshot%202024-08-05%20160809.png)
 
-- Movie List
+- Open AI Search
 
-  ![Movie List](https://okneeraj.github.io/netflix-gpt/screenshot/05-Movie-List.png)
-
-- Shimmer Loading
-
-  ![Shimmer Loading](https://okneeraj.github.io/netflix-gpt/screenshot/06-Shimmer-loading.png)
-
-- Search Page
-
-  ![Search Page](https://okneeraj.github.io/netflix-gpt/screenshot/07-Search.png)
-
-- Watch Now Page
-
-  ![Watch Now Page](https://okneeraj.github.io/netflix-gpt/screenshot/08-Watch.png)
-
-
-
+  ![Search Page](https://github.com/jardani1/Netflix-With-AI-Search/blob/main/src/Screenshot%202024-08-05%20155019.png)
 ## Setup
 
 - Install react app using create-react-app (CRA)
